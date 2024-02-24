@@ -5,6 +5,7 @@ cargo new conversacion
 cd conversacion
 
 Modificar Cargo.toml, agregar la dependencia:
+
 rand = "0.8.5"
 
 Reemplazar el codigo de src/main.rs
